@@ -19,12 +19,13 @@
 
 ---
 
-<h3 align="center"> 42 badges </h3>
+<h2 align="center">🏆 42 badges 🏆</h2>
 
-<h3 align="center"> phase 1 </h3>
+<h3 align="center"> 🥉 phase 1 🥉</h3>
 <h4 align="center">
 <img align="center" height="160px" src="https://user-images.githubusercontent.com/98053054/151610762-69c4ac26-cbb6-43e6-9fa1-037c3f085253.png" />
 
+ ![2-removebg-preview](https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png)
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-carecho&langs_count=10&theme=graywhite&layout=compact" alt="Milena :: Top Langs" /></p>
