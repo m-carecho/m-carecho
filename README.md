@@ -22,8 +22,6 @@
 <h2 align="center">🏆 42 badges 🏆</h2>
 
 <h3 align="center"> 🥉 phase 1 🥉</h3>
-<h4 align="center">
-<img align="center" height="120px" src="https://user-images.githubusercontent.com/98053054/151613511-67b1061d-56a6-4a86-bf22-302e6fadbc03.png" />
 
 <div>
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
@@ -37,8 +35,6 @@
  
  
 <h3 align="center">🥈 phase 2 🥈</h3>
-<h4 align="center">
-<img align="center" height="120px" src="https://user-images.githubusercontent.com/98053054/151610762-69c4ac26-cbb6-43e6-9fa1-037c3f085253.png" />
 
 <div>
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
@@ -51,8 +47,6 @@
  
  
 <h3 align="center">🥇 phase 3 🥇</h3>
-<h4 align="center">
-<img align="center" height="120px" src="https://user-images.githubusercontent.com/98053054/151610762-69c4ac26-cbb6-43e6-9fa1-037c3f085253.png" />
 
 <div>
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
