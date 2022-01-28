@@ -23,7 +23,7 @@
 
 <h3 align="center"> 🥉 phase 1 🥉</h3>
 
-<div>
+<div align="center">
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" />
@@ -36,7 +36,7 @@
  
 <h3 align="center">🥈 phase 2 🥈</h3>
 
-<div>
+<div align="center">
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" />
@@ -48,7 +48,7 @@
  
 <h3 align="center">🥇 phase 3 🥇</h3>
 
-<div>
+<div align="center">
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" />
