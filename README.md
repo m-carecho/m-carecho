@@ -42,12 +42,12 @@
 <h3 align="center">🥈 phase 2 🥈</h3>
 
 <div align="center">
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611452-4bccbc17-efc9-44e0-822c-8c37fe870aa5.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151613333-54274f48-bd45-44e0-b0dc-44830df847fa.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151612892-1c10eb9f-62e8-44ba-a671-36be46d40a2d.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151619995-db5825f6-f157-4703-b8b3-7e09ddd7c3ea.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151619991-5c985165-4074-49a5-bd0f-aad8f09ae91f.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151619988-ea52fb6d-925a-4c06-8eb6-31a7c47d4a61.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151619986-57370098-0deb-4c80-b64e-9b458ceed901.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151620274-27033b86-c6ec-42a7-988c-f59ba6bde340.png" />
+
  
  
 ![0%](https://progress-bar.dev/0/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
