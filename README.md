@@ -27,7 +27,6 @@
 
 <div>
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
-<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" />
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611452-4bccbc17-efc9-44e0-822c-8c37fe870aa5.png" />
@@ -37,9 +36,34 @@
 
  
  
-<h3 align="center">🥈 phase 2🥈</h3>
+<h3 align="center">🥈 phase 2 🥈</h3>
 <h4 align="center">
-<img align="center" height="160px" src="https://user-images.githubusercontent.com/98053054/151610762-69c4ac26-cbb6-43e6-9fa1-037c3f085253.png" />
+<img align="center" height="120px" src="https://user-images.githubusercontent.com/98053054/151610762-69c4ac26-cbb6-43e6-9fa1-037c3f085253.png" />
 
+<div>
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611452-4bccbc17-efc9-44e0-822c-8c37fe870aa5.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151613333-54274f48-bd45-44e0-b0dc-44830df847fa.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151612892-1c10eb9f-62e8-44ba-a671-36be46d40a2d.png" />
+</div>
+ 
+ 
+<h3 align="center">🥇 phase 3 🥇</h3>
+<h4 align="center">
+<img align="center" height="120px" src="https://user-images.githubusercontent.com/98053054/151610762-69c4ac26-cbb6-43e6-9fa1-037c3f085253.png" />
+
+<div>
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611452-4bccbc17-efc9-44e0-822c-8c37fe870aa5.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151613333-54274f48-bd45-44e0-b0dc-44830df847fa.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151612892-1c10eb9f-62e8-44ba-a671-36be46d40a2d.png" />
+</div>
+ 
+ 
+ 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-carecho&langs_count=10&theme=graywhite&layout=compact" alt="Milena :: Top Langs" /></p>
 
