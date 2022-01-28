@@ -3,8 +3,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:milena.c@aluno.ifsp.edu.br)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MilenaCarecho)
 
-<h3>👩‍🚀 Hello world!!</h3>
-<h3>I'm Milena 👋</h3>
+<h3 align="center">👩‍🚀 Hello world!!</h3>
+<h3 align="center">I'm Milena 👋</h3>
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/Pg3qo5sVxjQAAAAM/anime-drinking-wine.gif" />
 
