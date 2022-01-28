@@ -24,8 +24,16 @@
 <h3 align="center"> 🥉 phase 1 🥉</h3>
 <h4 align="center">
 <img align="center" height="160px" src="https://user-images.githubusercontent.com/98053054/151613511-67b1061d-56a6-4a86-bf22-302e6fadbc03.png" />
- 
+
+ <div>
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
+<img height="80px" src="https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png" />
+  
+</div>
 
 ![2-removebg-preview](https://user-images.githubusercontent.com/98053054/151611442-dc327b44-b61e-430d-85c8-9789af8824be.png)
 ![3-removebg-preview](https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png)
