@@ -23,13 +23,7 @@
 <h3 align="center"> phase 1 </h3>
 <h4 align="center">
 <img align="center" height="160px" src="https://user-images.githubusercontent.com/98053054/151610401-4a99fce4-4cf2-4cc0-9a9f-580fbe944e8e.PNG" />
-  [![](https://github.com/Yaten/42/blob/main/img/125px/libft.png)]()
-  [![](https://github.com/Yaten/42/blob/main/img/125px/gnl-star.png)]()
-  [![](https://github.com/Yaten/42/blob/main/img/125px/ft_printf.png)]()
-  [![](https://github.com/Yaten/42/blob/main/img/125px/born2beroot-star.png)]()
-  [![](https://github.com/Yaten/42/blob/main/img/125px/so_long-star.png)]()
-  [![](https://github.com/Yaten/42/blob/main/img/125px/pipex.png)]()
----
+
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-carecho&langs_count=10&theme=graywhite&layout=compact" alt="Milena :: Top Langs" /></p>
