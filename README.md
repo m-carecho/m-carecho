@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milenacarecho/)
-[![Discord](https://img.shields.io/badge/-Discord-5662E9?style=flat&logo=Discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/-Discord-5662E9?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/277265936946429953)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:milena.c@aluno.ifsp.edu.br)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MilenaCarecho)
 
@@ -30,7 +30,8 @@
 ![4-removebg-preview](https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png)
 ![5-removebg-preview](https://user-images.githubusercontent.com/98053054/151611452-4bccbc17-efc9-44e0-822c-8c37fe870aa5.png)
 ![6-removebg-preview](https://user-images.githubusercontent.com/98053054/151611470-10211f6e-3235-4f24-b23a-86ceaed87374.png)
-![7-removebg-preview](https://user-images.githubusercontent.com/98053054/151611433-9bb7ef8d-e607-4926-9bd3-434ea789bc4c.png)
+![pipex](https://user-images.githubusercontent.com/98053054/151612892-1c10eb9f-62e8-44ba-a671-36be46d40a2d.png)
+
 
  
  
