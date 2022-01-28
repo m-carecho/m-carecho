@@ -6,7 +6,7 @@
 <h3 align="center">👩‍🚀 Hello world!!</h3>
 <h3 align="center">I'm Milena 👋</h3>
 
-<img align="right" alt="GIF" height="160px" src="https://c.tenor.com/Pg3qo5sVxjQAAAAM/anime-drinking-wine.gif" />
+<img align="right" alt="GIF" height="160px" src="https://c.tenor.com/2SYQNv5NTGQAAAAM/cowboy-bebop.gif" />
 
 
 - 💻 I'm currently studying software engineering at [42SP](https://www.42sp.org.br/) and systems development at [IFSP](https://www.ifsp.edu.br/)
