@@ -22,7 +22,7 @@
 
 <h3 align="center"> phase 1 </h3>
 <h4 align="center">
-<img align="center" height="160px" src="https://user-images.githubusercontent.com/98053054/151610401-4a99fce4-4cf2-4cc0-9a9f-580fbe944e8e.PNG" />
+<img align="center" height="160px" src="1-removebg-preview](https://user-images.githubusercontent.com/98053054/151610762-69c4ac26-cbb6-43e6-9fa1-037c3f085253.png" />
 
 
 
