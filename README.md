@@ -21,7 +21,9 @@
 ---
 
 <h2 align="center">🏆 42 badges 🏆</h2>
+
 > *to see the project, just click on the badge*
+
 <h3 align="center"> 🥉 phase 1 🥉</h3>
 
 <div align="center">
