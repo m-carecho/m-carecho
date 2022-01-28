@@ -15,7 +15,7 @@
 - 🌱 Learning all about `C` and data structure
 - 🌎 I’m from São Paulo - Brazil
 - 🤓 curiosity about me: I love the 90's anime aesthetics, especially cowboy bebop
-
+- 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience
 
 
 ---
