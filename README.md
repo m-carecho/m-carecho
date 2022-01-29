@@ -23,7 +23,7 @@
 
 <h2 align="center">🏆 42 badges 🏆</h2>
 
-> *to see the project, just click on the colored badge. Black and white are not finished yet*
+> *you can see the project by clicking on the colored badge, black and white aren't finished yet*
 
 <h3 align="center"> 🥉 phase 1 🥉</h3>
 
