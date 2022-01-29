@@ -13,7 +13,7 @@
 - 💻 I'm currently studying software engineering at [42SP](https://www.42sp.org.br/) and systems development at [IFSP](https://www.ifsp.edu.br/)
 - 👩🏻‍🏫 I teach programming to kids
 - 🌱 Learning all about `C` and data structure
-- 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience
+- 🤝 I'm looking to collaborate in the creation and development of projects to expand my skills and experience
 - 🌎 I’m from São Paulo - Brazil
 - 🤓 curiosity about me: I love the 90's anime aesthetics, especially cowboy bebop
 
