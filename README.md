@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/2SYQNv5NTGQAAAAM/cowboy-bebop.gif" />
 
-- 💜 I am working as a software engineer at [Nubank](https://nubank.com.br/)
+- 💜 I'm working as a software engineer at [Nubank](https://nubank.com.br/)
 - 💻 I'm currently studying software engineering at [42SP](https://www.42sp.org.br/)
 - 👩🏻‍🏫 I teach programming to kids
 - 🌱 Learning all about `C` and data structure
