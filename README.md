@@ -9,11 +9,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/2SYQNv5NTGQAAAAM/cowboy-bebop.gif" />
 
-
-- 💻 I'm currently studying software engineering at [42SP](https://www.42sp.org.br/) and systems development at [IFSP](https://www.ifsp.edu.br/)
+- 💜 I am working as a software engineer at [Nubank](https://nubank.com.br/)
+- 💻 I'm currently studying software engineering at [42SP](https://www.42sp.org.br/)
 - 👩🏻‍🏫 I teach programming to kids
 - 🌱 Learning all about `C` and data structure
-- 🤝 I'm looking to collaborate in the creation and development of projects to expand my skills and experience
+- 🤝 I'm looking to collaborate in the crea tion and development of projects to expand my skills and experience
 - 🌎 I’m from São Paulo - Brazil
 - 🤓 curiosity about me: I love the 90's anime aesthetics, especially cowboy bebop
 
