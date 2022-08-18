@@ -34,7 +34,7 @@
 <a href="https://github.com/m-carecho/so_long"><img height="80px" src="https://user-images.githubusercontent.com/98053054/151613333-54274f48-bd45-44e0-b0dc-44830df847fa.png" /></a>
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151612892-1c10eb9f-62e8-44ba-a671-36be46d40a2d.png" />
  
-![70%](https://progress-bar.dev/60/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
+![85%](https://progress-bar.dev/60/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
 </div>
 
  
