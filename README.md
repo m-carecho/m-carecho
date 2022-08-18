@@ -31,7 +31,7 @@
 <a href="https://github.com/m-carecho/42SP_GNL"><img height="80px" src="https://user-images.githubusercontent.com/98053054/151611429-e4a36218-d7d4-4473-be17-c540d5142727.png" /></a>
 <a href="https://github.com/m-carecho/42SP_PRINTF"><img height="80px" src="https://user-images.githubusercontent.com/98053054/151611436-17a59a6a-92ea-4fce-8875-729ec921b159.png" /></a>
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151611452-4bccbc17-efc9-44e0-822c-8c37fe870aa5.png" />
-<a href="https://github.com/m-carecho/so_long"><img height="80px" src="https://user-images.githubusercontent.com/98053054/185461372-81a86c79-821d-42e4-88f2-d9218108796f.png" /></a>
+<a href="https://github.com/m-carecho/so_long"><img height="90px" src="https://user-images.githubusercontent.com/98053054/185461372-81a86c79-821d-42e4-88f2-d9218108796f.png" /></a>
 <img height="80px" src="https://user-images.githubusercontent.com/98053054/151612892-1c10eb9f-62e8-44ba-a671-36be46d40a2d.png" />
  
 ![85%](https://progress-bar.dev/85/?scale=100&title=progress&width=500&color=8AB58&suffix=%)
